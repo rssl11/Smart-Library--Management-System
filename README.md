@@ -13,4 +13,4 @@ Project Modules
 Development Team
 Student Name: Rassel John R. Dizon
 Course:IT 3012
-Section: BSIT BA 2C
+Section: BSIT BA 2C 
