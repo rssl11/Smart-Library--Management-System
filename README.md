@@ -23,3 +23,10 @@ Features
 - Update Member Information
 - Delete Member Record
 - Search Member
+
+Contributor Update
+
+Contributor Name: Del Valle, Justine D
+
+Feature Added:
+- Digital Library Dashboard
