@@ -26,7 +26,7 @@ Features
 
 Contributor Update
 
-Contributor Name: Del Valle, Justine D.
+Contributor Name: Del Valle, Justine D
 
 Feature Added:
 - Digital Library Dashboard
