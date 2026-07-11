@@ -21,7 +21,7 @@ Member Management Module
 Features
 - Register New Member
 - Update Member Information
-- Delete Member Record
+- Delete Member Record 
 - Search Member
 
 Contributor Update
@@ -30,3 +30,6 @@ Contributor Name: Del Valle, Justine D
 
 Feature Added:
 - Digital Library Dashboard
+
+- _Last updated during GitHub Actions laboratory._
+
